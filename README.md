@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theroycode
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning html, css
+- 👀 I’m interested in AI and machine learning
+- 🌱 I’m currently learning langchain.
 
 
 <!---
