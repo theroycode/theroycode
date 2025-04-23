@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theroycode
-- 👀 I’m interested in AI and machine learning
-- 🌱 I’m currently learning langchain.
+- 👀 I’m interested in Backend development, AI and machine learning
+- 🌱 I’m currently learning golang, langchain.
 
 
 <!---
