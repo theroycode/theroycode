@@ -29,7 +29,7 @@ I’m a curious and driven developer exploring the space between **backend syste
 ---
 
 ### 🧩 Problem Solving
-![LeetCode Stats](https://leetcard.jacoblin.cool/theroycode?theme=light&font=Noto%20Sans%20Saurashtra&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/theroycode?theme=dark&font=Noto%20Sans%20Saurashtra&ext=activity)
 
 ---
 
