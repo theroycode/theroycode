@@ -29,9 +29,7 @@ I’m a curious and driven developer exploring the space between **backend syste
 ---
 
 ### 🧩 Problem Solving
-- **115+ LeetCode problems** solved — 
-- Strong grasp of **data structures** and **algorithms** in Java
-- Enjoy tackling debugging challenges and low-level issue tracing
+![LeetCode Stats](https://leetcard.jacoblin.cool/theroycode?theme=light&font=Noto%20Sans%20Saurashtra&ext=activity)
 
 ---
 
